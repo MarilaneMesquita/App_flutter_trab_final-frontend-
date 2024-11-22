@@ -109,7 +109,7 @@ Arquivo de configuração do projeto, onde são definidas as dependências e ass
 1. **Clone o Repositório (caso não tenha o arquivo .zip)**
 
    ```bash
-   git clone https://github.com/seu-usuario/crud_app.git
+   git clone https://github.com/MarilaneMesquita/App_flutter_trab_final-frontend-.git
    ```
 
 2. **Navegue até o Diretório do Projeto**
